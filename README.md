@@ -1,1 +1,5 @@
-# Netflixui.github.io
+![Screenshot (134)](https://github.com/pratik1802/Netflixui.github.io/assets/114296841/2b56ba82-0de1-480f-adad-05baac868238)
+![Screenshot (135)](https://github.com/pratik1802/Netflixui.github.io/assets/114296841/5a968304-0f68-4a3d-be3b-d69901643106)
+![Screenshot (136)](https://github.com/pratik1802/Netflixui.github.io/assets/114296841/ed616e0c-10b5-4d62-80c2-5b12909b4cb3)
+![Screenshot (137)](https://github.com/pratik1802/Netflixui.github.io/assets/114296841/9c004815-e806-4270-be7e-6eb1a7e70932)
+![Screenshot (138)](https://github.com/pratik1802/Netflixui.github.io/assets/114296841/66f13e11-56be-417a-8352-366fba1661bd)
